@@ -1,0 +1,8 @@
+C:\Users\ihaba\source\repos\VariablesConsole\VariablesConsole\bin\Debug\VariablesConsole.exe.config
+C:\Users\ihaba\source\repos\VariablesConsole\VariablesConsole\bin\Debug\VariablesConsole.exe
+C:\Users\ihaba\source\repos\VariablesConsole\VariablesConsole\bin\Debug\VariablesConsole.pdb
+C:\Users\ihaba\source\repos\VariablesConsole\VariablesConsole\obj\Debug\VariablesConsole.csproj.AssemblyReference.cache
+C:\Users\ihaba\source\repos\VariablesConsole\VariablesConsole\obj\Debug\VariablesConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\ihaba\source\repos\VariablesConsole\VariablesConsole\obj\Debug\VariablesConsole.csproj.CoreCompileInputs.cache
+C:\Users\ihaba\source\repos\VariablesConsole\VariablesConsole\obj\Debug\VariablesConsole.exe
+C:\Users\ihaba\source\repos\VariablesConsole\VariablesConsole\obj\Debug\VariablesConsole.pdb
